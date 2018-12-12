@@ -1,0 +1,11 @@
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\bin\Debug\lab1.3.exe.config
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\bin\Debug\lab1.3.exe
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\bin\Debug\lab1.3.pdb
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1._3.Form1.resources
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1._3.Properties.Resources.resources
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.GenerateResource.cache
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.CoreCompileInputs.cache
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1.3.exe
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1.3.pdb
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1.3.csprojAssemblyReference.cache
+D:\3kurs\Osnovy_PI\lab1.3\lab1.3\obj\Debug\lab1._3.Form2.resources
